@@ -1,10 +1,7 @@
-import { Main } from "next/document";
-
 export const Home = () => {
   return (
     <>
-      <Header/>
-      <Main/>
+      <h1>Home</h1>
     </>
   );
 };
